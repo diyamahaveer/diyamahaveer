@@ -25,5 +25,3 @@ I'm studying Computer Science at the University of Michigan, Ann Arbor
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diyamahaveer&theme=material-palenight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
